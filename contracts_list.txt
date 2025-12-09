@@ -1,0 +1,180 @@
+CONTRACT_LIST
+{
+    CONTRACT
+    {
+        CONTRACT_NUMBER 1
+        SERVICE_NAME "UNLIMITED 850"
+        CUSTOMER "Giwrgos Vlasshs"
+        PHONE_NUMBER "690001"
+        ACTIVATION_DATE "1 June 2018"
+        DISCOUNT 15
+        MONTHLY_USAGE
+        {
+            PHONE_MINUTES 1200
+            SMS 100
+        }
+    }
+    CONTRACT
+    {
+        CONTRACT_NUMBER 2
+        SERVICE_NAME "UNLIMITED 850"
+        CUSTOMER "Iwanna Zaxarakh"
+        PHONE_NUMBER "690002"
+        ACTIVATION_DATE "1 June 2018"
+        DISCOUNT 15
+        MONTHLY_USAGE
+        {
+            PHONE_MINUTES 1100
+            SMS 900
+        }
+    }
+    CONTRACT
+    {
+        CONTRACT_NUMBER 3
+        SERVICE_NAME "UNLIMITED 1500"
+        CUSTOMER "Thomas Vasilas"
+        PHONE_NUMBER "690003"
+        ACTIVATION_DATE "1 June 2018"
+        DISCOUNT 15
+        MONTHLY_USAGE
+        {
+            PHONE_MINUTES 1600
+            SMS 500
+        }
+    }
+    CONTRACT
+    {
+        CONTRACT_NUMBER 4
+        SERVICE_NAME "UNLIMITED 1500"
+        CUSTOMER "Giwrgos Vlasshs"
+        PHONE_NUMBER "690004"
+        ACTIVATION_DATE "1 June 2018"
+        DISCOUNT 15
+        MONTHLY_USAGE
+        {
+            PHONE_MINUTES 1300
+            SMS 550
+        }
+    }
+    CONTRACT
+    {
+        CONTRACT_NUMBER 5
+        SERVICE_NAME "MONTH FAVORITE 1"
+        CUSTOMER "Thomas Vasilas"
+        PHONE_NUMBER "690005"
+        ACTIVATION_DATE "1 June 2018"
+        DISCOUNT 10
+        MONTHLY_USAGE
+        {
+            PHONE_MINUTES 500
+            SMS 150
+            SPENT 0.0
+        }
+    }
+    CONTRACT
+    {
+        CONTRACT_NUMBER 6
+        SERVICE_NAME "MONTH FAVORITE 1"
+        CUSTOMER "Giwrgos Vlasshs"
+        PHONE_NUMBER "690006"
+        ACTIVATION_DATE "1 June 2018"
+        DISCOUNT 10
+        MONTHLY_USAGE
+        {
+            PHONE_MINUTES 400
+            SMS 130
+            SPENT 0.0
+        }
+    }
+    CONTRACT
+    {
+        CONTRACT_NUMBER 7
+        SERVICE_NAME "MONTH FAVORITE 2"
+        CUSTOMER "Thomas Vasilas"
+        PHONE_NUMBER "690007"
+        ACTIVATION_DATE "1 June 2018"
+        DISCOUNT 10
+        MONTHLY_USAGE
+        {
+            PHONE_MINUTES 200
+            SMS 230
+            SPENT 0.0
+        }
+    }
+    CONTRACT
+    {
+        CONTRACT_NUMBER 8
+        SERVICE_NAME "MONTH FAVORITE 2"
+        CUSTOMER "Giwrgos Vlasshs"
+        PHONE_NUMBER "690008"
+        ACTIVATION_DATE "1 June 2018"
+        DISCOUNT 10
+        MONTHLY_USAGE
+        {
+            PHONE_MINUTES 600
+            SMS 300
+            SPENT 0.0
+        }
+    }
+    CONTRACT
+    {
+        CONTRACT_NUMBER 9
+        SERVICE_NAME "GIGA WEEK"
+        CUSTOMER "tyxaio onoma"
+        PHONE_NUMBER "690009"
+        ACTIVATION_DATE "1 June 2018"
+        DISCOUNT 10
+        MONTHLY_USAGE
+        {
+            VOLUME 2000
+        }
+    }
+    CONTRACT
+    {
+        CONTRACT_NUMBER 10
+        SERVICE_NAME "GIGA WEEK"
+        CUSTOMER "tyxaio onoma2"
+        PHONE_NUMBER "690010"
+        ACTIVATION_DATE "1 June 2018"
+        DISCOUNT 10
+        MONTHLY_USAGE
+        {
+            VOLUME 1000
+        }
+    }
+    CONTRACT
+    {
+        CONTRACT_NUMBER 11
+        SERVICE_NAME "GIGA MONTH"
+        CUSTOMER "Iwanna Zaxarakh"
+        PHONE_NUMBER "690011"
+        ACTIVATION_DATE "1 June 2018"
+        DISCOUNT 10
+        MONTHLY_USAGE
+        {
+            VOLUME 2500
+        }
+    }
+    CONTRACT
+    {
+        CONTRACT_NUMBER 12
+        SERVICE_NAME "GIGA MONTH"
+        CUSTOMER "Zaxarakh Iwanna"
+        PHONE_NUMBER "690012"
+        ACTIVATION_DATE "1 June 2018"
+        DISCOUNT 10
+        MONTHLY_USAGE
+        {
+            VOLUME 7000
+        }
+    }
+}
+
+
+
+
+
+
+
+
+

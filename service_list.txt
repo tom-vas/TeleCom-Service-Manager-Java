@@ -1,0 +1,65 @@
+SERVICE_LIST
+{
+    SERVICE 
+    {
+        SERVICE_NAME "UNLIMITED 850"
+        TYPE symvolaio_kin
+        MONTHLΥ_PRICE 10
+        FREE_MINUTES 850
+        FREE_SMS 200
+        XREWSH_MINUTES 0.2
+        XREWSH_SMS 0.1
+    }
+    SERVICE
+    {
+        SERVICE_NAME "UNLIMITED 1500"
+        TYPE symvolaio_kin
+        MONTHLY_PRICE 10
+        FREE_MINUTES 1500
+        FREE_SMS 500
+        XREWSH_MINUTES 0.4
+        XREWSH_SMS 0.2
+    }  
+    SERVICE
+    {
+        SERVICE_NAME "MONTH FAVORITE 1"
+        TYPE Kartosymvolaio
+        MONTHLY_PRICE 10
+        FREE_MINUTES 1000
+        FREE_SMS 800
+        XREWSH_MINUTES 0.12
+        XREWSH_SMS 0.1
+        MONTHLY_BALANCE 20
+    }  
+    SERVICE
+    {
+        SERVICE_NAME "MONTH FAVORITE 2"
+        TYPE Kartosymvolaio
+        MONTHLY_PRICE 10
+        FREE_MINUTES 1500
+        FREE_SMS 1000
+        XREWSH_MINUTES 0.15
+        XREWSH_SMS 0.12
+        MONTHLY_BALANCE 20
+    }
+    SERVICE
+    {
+        SERVICE_NAME "GIGA WEEK"
+        TYPE Internet
+        MONTHLY_PRICE 10
+        FREE_USAGE 6
+        XREWSH_DATA 0.1
+    }
+    SERVICE
+    {
+        SERVICE_NAME "GIGA MONTH"
+        TYPE Internet
+        MONTHLY_PRICE 10
+        FREE_USAGE 10
+        XREWSH_DATA 0.2
+    }
+}
+
+
+
+
